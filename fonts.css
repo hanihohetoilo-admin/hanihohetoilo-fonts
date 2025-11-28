@@ -1,0 +1,33 @@
+/* M PLUS 1 Code - Japanese subset */
+@font-face {
+  font-family: 'M PLUS 1 Code';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(m-plus-1-code-japanese-400-normal.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'M PLUS 1 Code';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(m-plus-1-code-japanese-500-normal.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'M PLUS 1 Code';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(m-plus-1-code-japanese-700-normal.woff2) format('woff2');
+}
+
+/* Mochiy Pop One - Japanese subset */
+@font-face {
+  font-family: 'Mochiy Pop One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(mochiy-pop-one-japanese-400-normal.woff2) format('woff2');
+}
